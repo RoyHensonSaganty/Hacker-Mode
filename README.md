@@ -20,6 +20,10 @@ The project features a dark hacker-themed interface with a **Matrix-style rain a
 - HTML5
 - React Hooks
 
+## Live Demo
+
+ **[Try Hacker Mode](https://hacker-mode-tau.vercel.app/)**
+
 ## Project Structure
 
 ```text

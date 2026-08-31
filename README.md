@@ -27,12 +27,17 @@ The project features a dark hacker-themed interface with a **Matrix-style rain a
 ## Project Structure
 
 ```text
-Hacker-Mode/
-├── MatrixRain.js
-├── boot.js
-├── home.js
-├── index.js
-├── input.js
-├── styles.css
-├── tiny.js
+hacker-mode/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js
+│   ├── boot.js
+│   ├── home.js
+│   ├── index.js
+│   ├── input.js
+│   ├── MatrixRain.js
+│   ├── styles.css
+│   └── tiny.js
+├── package.json
 └── README.md
